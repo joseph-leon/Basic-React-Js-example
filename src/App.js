@@ -35,7 +35,7 @@ class App extends Component {
               <th>Código</th>
               <th>Descripción</th>
               <th>Precio</th>
-              <th>Borra?</th>
+              <th>Borrar</th>
             </tr>
           </thead>
           <tbody className="table-info">
